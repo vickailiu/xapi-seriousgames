@@ -9,6 +9,8 @@ This is the WIP specification for serious game. It is adapted from the generic x
 
 The game developer are required to share **list of objects and corresponding actions**, and **game score logic** for review.
 
+**For games that has their own logging format, equivalent information (object type, and result) are required. If it is difficult to include JSON string, mapping (e.g., key mapping from index to values about result) are required as supplementary document.**
+
 # Serious Games Interactions Model
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
